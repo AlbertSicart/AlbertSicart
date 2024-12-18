@@ -36,6 +36,29 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/Br00tus.png" alt="Your Image Badge" />
 </div>
 
+### TryHackMe Badges
+<div align="left">
+  <img src="https://assets.tryhackme.com/img/badges/owasptop10.svg" height="40" alt="owasp badge"  />
+  <img width="12" />
+  <img src="https://assets.tryhackme.com/img/badges/introtooffensivesecurity.svg" height="40" alt="intropentest badge"  />
+  <img width="12" />
+  <img src="https://assets.tryhackme.com/img/badges/introtowebsecurity.svg" height="40" alt="webhack badge"  />
+  <img width="12" />
+  <img src="https://assets.tryhackme.com/img/badges/hashcracker.svg" height="40" alt="hashcrack badge"  />
+  <img width="12" />
+  <img src="https://assets.tryhackme.com/img/badges/burpsuite.svg" height="40" alt="burp badge"  />
+  <img width="12" />
+  <img src="https://assets.tryhackme.com/img/badges/metasploit.svg" height="40" alt="metasploit badge"  />
+  <img width="12" />
+  <img src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg" height="40" alt="networkfund badge"  />
+  <img width="12" />
+  <img src="https://assets.tryhackme.com/img/badges/blue.svg" height="40" alt="winblue badge"  />
+  <img width="12" />
+  <img src="https://assets.tryhackme.com/img/badges/linuxprivesc.svg" height="40" alt="winblue badge"  />
+  <img width="12" />
+</div>
+
+
 ###
 <!--
 <div align="left">
